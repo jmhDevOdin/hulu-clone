@@ -1,0 +1,9 @@
+body {
+    background-image: linear-gradient(to right, #101014, #05050c) !important;
+}
+
+.app {
+    width: 100vw;
+    /* background-image: linear-gradient(to right, #051421, #042727); */
+    background-image: linear-gradient(to right, #101014, #05050c) !important;
+}
