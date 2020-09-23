@@ -4,10 +4,14 @@ React based Hulu Clone using full interactive data pull from TMDB movies API. Im
 
 Hosted on Firebase at this URL: https://hulu-clone-a5fe8.web.app/
 
+Project trello link: https://trello.com/b/AJ5UdfMv/hulu-clone
+
 ## Screenshots
 
 App in action
+
 ![alt text](/images/hulu-clone-screenshot.png)
 
 Project Management in trello
+
 ![alt text](/images/hulu-clone-trello.png)
